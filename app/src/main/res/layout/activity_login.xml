@@ -19,6 +19,9 @@
         app:logo="@mipmap/app_logo"
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
         app:titleTextAppearance="@style/app_title" />
+    
+    
+    
 
     <LinearLayout
         android:layout_width="match_parent"
